@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mrgargsir.github.io/smartsahayak/sitemap.xml
+Sitemap: https://smartsahayak.store/sitemap.xml
